@@ -9,7 +9,7 @@ Create file *app/credentials.json* with your credentials:
 ```javascript
 {
 	"password": "{{your password}}",
-    "user_id": "{{your user_id}}"
+	"user_id": "{{your user_id}}"
 }
 ```
 Then do:
